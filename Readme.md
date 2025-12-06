@@ -3,6 +3,8 @@
 
 #  **Notification Queue System**
 
+![Notification Queue Architecture](./messageQueue.png)
+
 A Notification Queue System allows you to handle **emails**, **SMS**, **push notifications**, and **heavy background tasks** asynchronously and reliably using **queues**, **workers**, **retries**, and **dead-letter queues**.
 
 This README provides a complete overview of **core concepts**, **architecture**, and **implementation patterns** using **BullMQ**.
